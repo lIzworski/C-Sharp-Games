@@ -1,0 +1,15 @@
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\MojeProjekty\Gierka\XEater\obj\Debug\net6.0\XEater.csproj.AssemblyReference.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\MojeProjekty\Gierka\XEater\obj\Debug\net6.0\XEater.GeneratedMSBuildEditorConfig.editorconfig
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\MojeProjekty\Gierka\XEater\obj\Debug\net6.0\XEater.AssemblyInfoInputs.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\MojeProjekty\Gierka\XEater\obj\Debug\net6.0\XEater.AssemblyInfo.cs
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\MojeProjekty\Gierka\XEater\obj\Debug\net6.0\XEater.csproj.CoreCompileInputs.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\MojeProjekty\Gierka\XEater\bin\Debug\net6.0\XEater.exe
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\MojeProjekty\Gierka\XEater\bin\Debug\net6.0\XEater.deps.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\MojeProjekty\Gierka\XEater\bin\Debug\net6.0\XEater.runtimeconfig.json
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\MojeProjekty\Gierka\XEater\bin\Debug\net6.0\XEater.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\MojeProjekty\Gierka\XEater\bin\Debug\net6.0\XEater.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\MojeProjekty\Gierka\XEater\obj\Debug\net6.0\XEater.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\MojeProjekty\Gierka\XEater\obj\Debug\net6.0\refint\XEater.dll
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\MojeProjekty\Gierka\XEater\obj\Debug\net6.0\XEater.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\MojeProjekty\Gierka\XEater\obj\Debug\net6.0\XEater.genruntimeconfig.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\MojeProjekty\Gierka\XEater\obj\Debug\net6.0\ref\XEater.dll

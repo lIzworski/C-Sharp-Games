@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XEater", "XEater.csproj", "{BAE5355F-7B95-46A7-B991-5F25811F1903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAE5355F-7B95-46A7-B991-5F25811F1903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE5355F-7B95-46A7-B991-5F25811F1903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE5355F-7B95-46A7-B991-5F25811F1903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE5355F-7B95-46A7-B991-5F25811F1903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AC09672-20C6-486F-A6D5-DE41CC55DFC2}
+	EndGlobalSection
+EndGlobal
