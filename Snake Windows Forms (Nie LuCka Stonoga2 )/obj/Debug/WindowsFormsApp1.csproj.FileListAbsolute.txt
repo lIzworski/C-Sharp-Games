@@ -1,0 +1,11 @@
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz5\ZadanieDomowe\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz5\ZadanieDomowe\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz5\ZadanieDomowe\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz5\ZadanieDomowe\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz5\ZadanieDomowe\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz5\ZadanieDomowe\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz5\ZadanieDomowe\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz5\ZadanieDomowe\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz5\ZadanieDomowe\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz5\ZadanieDomowe\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\MOje\Zajecia - Studia\Programowanie w jezyku c#\cwicz5\ZadanieDomowe\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Start.resources
